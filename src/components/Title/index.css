@@ -1,0 +1,36 @@
+.title-container {
+  display: flex;
+  align-items: center;
+  background-color: #3367d6;
+  padding: 20px;
+  height: 80px;
+}
+
+.history-logo {
+  height: 30px;
+}
+
+.search-container {
+  display: flex;
+  border: 1px solid #ececec;
+  background-color: #2850a7;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  padding: 10px;
+  width: 50vw;
+  height: 50px;
+}
+
+.search-icon {
+  height: 20px;
+}
+
+.search-input {
+  color: #f8fafc;
+  background-color: #2850a7;
+  border: 0px solid #2850a7;
+  width: 82%;
+  padding: 10px;
+  margin-left: 10px;
+}
