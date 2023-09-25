@@ -12,25 +12,31 @@
 
 .search-container {
   display: flex;
-  border: 1px solid #ececec;
+  border: 1.5px solid #6697ff;
   background-color: #2850a7;
   margin-left: auto;
   margin-right: auto;
   border-radius: 5px;
-  padding: 10px;
+  padding: 0px;
   width: 50vw;
   height: 50px;
 }
 
 .search-icon {
   height: 20px;
+  margin-top: 12px;
+  padding-left: 10px;
 }
 
 .search-input {
   color: #f8fafc;
   background-color: #2850a7;
-  border: 0px solid #2850a7;
+  border: none;
   width: 82%;
-  padding: 10px;
+  height: 49px;
+  border-left: 1px solid #6697ff;
+  border-bottom: 1px solid #6697ff;
+  padding: 0px 0px 0px 10px;
+  outline: none;
   margin-left: 10px;
 }
